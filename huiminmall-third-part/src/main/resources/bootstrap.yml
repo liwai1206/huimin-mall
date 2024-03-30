@@ -1,0 +1,9 @@
+spring:
+  cloud:
+    nacos:
+      config:
+        server-addr: 192.168.10.199:8848
+        namespace: 46dd6b55-d210-4658-8173-bd34b3276789
+
+  application:
+    name: gulimall-third-part
